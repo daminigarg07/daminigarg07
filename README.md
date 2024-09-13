@@ -2,13 +2,13 @@
 <h3 align="center">Enchanting Code Sorceress</h3>
 <p align="center">“Coding is my wand, data my potion, and bugs my mischievous familiars.” 🧙‍♀️</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daminigarg07&show_icons=true&locale=en&layout=compact" alt="daminigarg07" />
   </div>
   
   <div style="flex: 1; text-align: right;">
-    <img src="https://www.bing.com/images/create/a-minimalist-gif-of-a-cute-girl-coding/1-66e492860bde49d3b15ee9edb1a7a155?id=E0%2b9kzHyhEqkxGlww4LDLg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG1.MDPZA8y7eOWyl05de1cP&frame=sydedg&skey=4qRhFMQPVYP0pxZxAnDCV350_y2s6-7BwwottDjxDn4&FORM=SYDBIC" alt="Cute Girl Coding" width="150" height="150"/>
+    <img src="https://github.com/daminigarg07/daminigarg07/blob/main/_c400f6ad-dae3-4d3a-a2dc-eaa2987a2e51.jpg?raw=true" alt="Cute Girl Coding" width="150" height="150" />
   </div>
 </div>
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/in/damini-garg-523614240" target="_blank">
+  <a href="https://linkedin.com/in/damini-garg-523614240" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/damini garg" target="_blank">
