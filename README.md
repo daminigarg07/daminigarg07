@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daminigarg07&label=Profile%20views&color=0e75b6&style=flat" alt="daminigarg07" /> </p>
 
 <div style="flex: 1; text-align: right;">
-    <img align="right" alt="Coding" width="400" src="https://github.com/daminigarg07/daminigarg07/blob/main/_c400f6ad-dae3-4d3a-a2dc-eaa2987a2e51.jpg?raw=true" alt="Cute Girl Coding" width="150" height="150" />
+    <img align="right" alt="Coding" width="300" height="400" src="https://github.com/daminigarg07/daminigarg07/blob/main/_c400f6ad-dae3-4d3a-a2dc-eaa2987a2e51.jpg?raw=true" alt="Cute Girl Coding" width="150" height="150" />
   </div>
 </div>
 
